@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 
 #EXTM3U x-tvg-url="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
-#EXTINF:-1 group-title="Пожалуйста поддержи проект! Рассмотрите возможность сделать донат: Ю Money 2204 1202 0014 7714" tvg-id="2250" tvg-logo="http://epg.one/img/2250.png",Матч! Премьер
+#EXTINF:-1 group-title="Пожалуйста поддержи проект! Ю Money 2204 1202 0014 7714" tvg-id="2250" tvg-logo="http://epg.one/img/2250.png",Матч! Премьер
 http://f95feae4.rossteleccom.net/iptv/ZEQHBQKC3UD8PH/531/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Пожалуйста поддержи проект! Рассмотрите возможность сделать донат: Ю Money 2204 1202 0014 7714", Уютный камин
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Пожалуйста поддержи проект! Ю Money 2204 1202 0014 7714", Уютный камин
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
