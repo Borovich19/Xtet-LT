@@ -4,27 +4,6 @@
 #EXTINF:-1 group-title="Пожалуйста поддержи проект! Рассмотрите возможность сделать донат: Ю Money 2204 1202 0014 7714" tvg-id="2250" tvg-logo="http://epg.one/img/2250.png",Матч! Премьер
 http://f95feae4.rossteleccom.net/iptv/ZEQHBQKC3UD8PH/531/index.m3u8
 
-#EXTINF:-1, Матч! Футбол 1 HD 🇷🇺
-https://tv.movielab.pro/260/video.m3u8?token=bdc3439aa67c433022f4412ad54e90b1cd2ef09e-a1d69541788a9b3102291351de025ffb-1747637717-1747551317
-
-#EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
-https://tv.movielab.pro/271/video.m3u8?token=f3bece2bb79482d4660b58acf440622ca5cb3408-ddcb97c9278efe488d2b7c56bd596637-1747637717-1747551317
-
-#EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
-http://185.57.68.33/110/mpegts
-
-#EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
-http://185.57.68.33:8091/110/playlist.m3u8
-
-#EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
-https://tv.movielab.pro/329/video.m3u8?token=740a63852b882f81716fc6cafed32f849c10fa2e-727c345f30eb93b2b225d9cbf36dc412-1747637717-1747551317
-
-#EXTINF:-1, SETANTA SPORT 1 🇷🇺
-https://tv.movielab.pro/942/video.m3u8?token=fac34e822dc732a8eb3d9b7251e582bc51d0d791-ff6115b9c69cc000a384780a87ab8b8e-1747637717-1747551317
-
-#EXTINF:-1, SETANTA SPORT 2 🇷🇺
-https://tv.movielab.pro/943/video.m3u8?token=64b321bf1302816a9756528852b3c6e85d9afa31-ae30c82d174c6a90324b8d558694bfe3-1747637717-1747551317
-
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Пожалуйста поддержи проект! Рассмотрите возможность сделать донат: Ю Money 2204 1202 0014 7714", Уютный камин
 #EXTVLCOPT:http-user-agent=SmartTV
